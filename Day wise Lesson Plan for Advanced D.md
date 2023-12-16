@@ -1,4 +1,4 @@
-###﻿Day wise Lesson Plan for Advanced Devops and Cloud Training
+﻿Day wise Lesson Plan for Advanced Devops and Cloud Training
 
 
 
